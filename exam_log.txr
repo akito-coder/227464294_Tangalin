@@ -1,0 +1,49 @@
+    1  cd ~
+    2  clear
+    3  sudo apt install ubuntu
+    4  apt install open-jdk
+    5  apt install-jdk
+    6  cmatriz
+    7  cmatrix
+    8  clear
+    9  neofetch
+   10  pkg install neofetch
+   11  neofetch
+   12  pkg install python3
+   13  python3
+   14  pkg install jre
+   15  pkg install java
+   16  pkg install jdk
+   17  help
+   18  cd webproj
+   19  mkdir webproj
+   20  cd webproj
+   21  ls
+   22  exit
+   23  pkg search java
+   24  pkg install openjdk
+   25  exit
+   26  pkg install ssh
+   27  clear
+   28  pkg install javac
+   29  cleae
+   30  pkg open ssh
+   31  pkg openssh
+   32  pkg install openssh
+   33  pkg upgrade
+   34  pkg install openssh
+   35  ~pkg install javac
+   36  pkg install openjdk-17
+   37  pkg install open jdk-17
+   38  pkg search
+   39  pkg search jdk
+   40  pkg install openjdk-21
+   41  pkg install openjdk-17
+   42  exit
+   43  git checkout -b finalexam
+   44  git clone github.com/akito-coder/227464294_Tangalin
+   45  git clone https://github.com/akito-coder/227464294_Tangalin
+   46  cd /227464294_Tangalin
+   47  cd ~/227464294_Tangalin
+   48  git checkout -b finalexam
+   49  history > exam_log.txr

@@ -1,0 +1,68 @@
+    1  cd ~
+    2  clear
+    3  sudo apt install ubuntu
+    4  apt install open-jdk
+    5  apt install-jdk
+    6  cmatriz
+    7  cmatrix
+    8  clear
+    9  neofetch
+   10  pkg install neofetch
+   11  neofetch
+   12  pkg install python3
+   13  python3
+   14  pkg install jre
+   15  pkg install java
+   16  pkg install jdk
+   17  help
+   18  cd webproj
+   19  mkdir webproj
+   20  cd webproj
+   21  ls
+   22  exit
+   23  pkg search java
+   24  pkg install openjdk
+   25  exit
+   26  pkg install ssh
+   27  clear
+   28  pkg install javac
+   29  cleae
+   30  pkg open ssh
+   31  pkg openssh
+   32  pkg install openssh
+   33  pkg upgrade
+   34  pkg install openssh
+   35  ~pkg install javac
+   36  pkg install openjdk-17
+   37  pkg install open jdk-17
+   38  pkg search
+   39  pkg search jdk
+   40  pkg install openjdk-21
+   41  pkg install openjdk-17
+   42  exit
+   43  cd /https://github.com/akito-coder/227464294_Tangalin
+   44  cd ~/https://github.com/akito-coder/227464294_Tangalin
+   45  cd ~/227464294_Tangalin
+   46  git checkout -b finalexam
+   47  history > exam_log.txt
+   48  git add . exam_log.txt 
+   49  git commit -m "Added exam_log.txt with command history"
+   50  git config --global user.name akito-coder
+   51  git push origin finalexam
+   52  git checkout finalexam
+   53  git log -p --since='2024-08-08'--until='2024-08-10' --date=short
+   54  --exam_log.txt --reverse -n 1
+   55  git log -p --since=:2024-08-08' --until='2024-08-10' --date=short --exam_log.txt --reverse -n 1
+
+
+
+clear
+   56  git log -p --since=2024-08-08' --until='2024-08-10' --date=short --exam_log.txt -- reverse -n 1
+   57  clear
+   58  cd 227464294_Tangalin
+   59  git checkout finalexam
+   60  git log -p --since='2024-08-08' --until='2024-08-10' --date=short --exam_log.txt --reverse -n 1
+   61  clear
+   62  git checkout-b finalexam
+   63  git checkout -b finalexam
+   64  history > exam_log.txt
